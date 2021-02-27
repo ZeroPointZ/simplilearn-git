@@ -1,3 +1,6 @@
 This is a test for amend!
+<<<<<<< HEAD
 
 Mike
+=======
+>>>>>>> a1f4110581b177c7a973e1db88339981dd814382
