@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Merge Conflict Example: Keep
-=======
-Merge Conflict Example - Drop
->>>>>>> master
